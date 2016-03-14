@@ -1,0 +1,12 @@
+.project
+.settings
+
+logs/*
+docs/api/*
+src/logs/*
+src/tmp/*
+
+test/tmp/*
+test/logs/*
+test/report/*
+test/coverage.*

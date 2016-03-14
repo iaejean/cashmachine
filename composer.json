@@ -1,0 +1,31 @@
+{
+    "authors": [
+        {
+            "email": "iaejeanx@gmail.com",
+            "homepage": "https://gitlab.com/iaejean, https://github.com/iaejean",
+            "name": "Israel Hernández",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Clickbus\\": "src/Clickbus/"
+        }
+    },
+    "homepage": "https://github.com/iaejean/cashmachine",
+    "description": "Solución Test Cash Machine",
+    "keywords": [
+        "Test",
+        "Cash Machine",
+        "Clickbus"
+    ],
+    "licence" : "Apache License Version 2.0",
+    "name": "clickbus/cashmachine",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "4.8.16"
+    },    
+    "version": "1.0.0"
+}
