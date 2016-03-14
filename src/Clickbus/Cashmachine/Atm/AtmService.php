@@ -132,7 +132,7 @@ class AtmService
      * @return  bool
      */
     private function getBilletByDenomination($amount, $denomination)
-    s{
+    {
         return (($amount - $denomination) >= 0);
     }
 }
